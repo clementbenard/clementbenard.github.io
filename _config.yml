@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Research Scientist in Machine Learning"
+title                    : "Clément Bénard"
 title_separator          : "-"
 name                     : &name "Clément Bénard"
 description              : &description "personal description"
