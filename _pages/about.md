@@ -60,15 +60,21 @@ Software
 
 Talks
 =====
+* March 2023, CSMA Junior, Paris.
+* December 2022, CMStatistics 2022, King's College, London, UK.
+* March 2022, AISTATS 2022, virtual conference.
+* March 2022, Séminaire de Probabilités et Statistiques, Laboratoire de Mathématiques d'Orsay, Université Paris-Sacaly, Orsay.
+* January 2022, Séminaire de Probabilités et Statistiques, Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice.
+* September 2021, École Thématique sur les Incertitudes en Calcul Scientifique (ETICS2021), Erdeven, France.
+* July 2021, ENBIS Workshop: Interpretability of Industry 4.0, Naples, Italy.
+* June 2021, 52èmes Journées de Statistiques 2021, Nice, France.
+* April 2021, GDR Mascot-Num, virtual conference.
+* April 2021, SIMPAS Group meeting, Centre de Mathématiques Appliquées, Ecole Polytechnique, Saclay, France.
+* April 2021, AISTATS 2021, virtual conference.
+* June 2019, 51èmes Journées de Statistiques 2019, Nancy, France.
 
 
 Teaching
 ========
 * Instructor in statistics and optimization for mechanical engineers, 3-day sessions multiple times a year since 2018 (modelization, uncertainty quantification, design of experiments, constrained optimization...)
 
-
-Education
-=========
-* Sorbonne Université - PhD in Applied Mathematics (2018-2021)
-* Cornell University - Master of Engineering in Operations Research (2013-2014)
-* Ecole Centrale Paris - Master of Engineering (2011-2015)
