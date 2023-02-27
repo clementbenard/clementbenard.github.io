@@ -20,8 +20,8 @@ My resume is available here.
 
 Research interests
 ==================
-* Causal inference (heterogeneous treatment effects)
-* Machine learning interpretability (XAI)
+* Causal inference (heterogeneous treatment effects, causal forests)
+* Machine learning interpretability - XAI (variable importance, rule learning, functional decomposition)
 * Uncertainty quantification (Bayesian inference, conformal predictions)
 * Tree ensembles (random forests, boosted trees)
 
