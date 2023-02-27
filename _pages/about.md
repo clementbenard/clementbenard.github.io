@@ -56,7 +56,7 @@ Software
 * [Lagun](https://gitlab.com/drti/lagun): platform providing a user-friendly interface to methods and algorithms dedicated to the exploration of numerical simulations and the analysis of datasets (design of experiments, conditional gaussian processes, sensitivity analysis, uncertainty propagation, optimization).
 * [sirus](https://cran.r-project.org/web/packages/sirus) (Stable and Interpretable RUle Set): a regression and classification algorithm based on random forests, which takes the form of a short list of rules. SIRUS combines the simplicity of decision trees with a predictivity close to random forests.
 * [shaff](https://gitlab.com/drti/shaff) (SHApley eFfects via random Forests): a fast and accurate algorithm to estimate Shapley effects. 
-* [sobolmda](https://gitlab.com/drti/sobolmda): the Sobol-MDA is a variable importance measure for random forests, fixing the flaws of Breiman's MDA.
+* [sobolMDA](https://gitlab.com/drti/sobolmda): the Sobol-MDA is a variable importance measure for random forests, fixing the flaws of Breiman's MDA.
 
 
 Talks
