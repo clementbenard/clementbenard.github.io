@@ -45,6 +45,10 @@ Book
 ----
 * B. Iooss, R. Kenett, P. Secchi, B.M. Colosimo, F. Centofanti, C. Bénard, S. Da Veiga, E. Scornet, S. N. Wood, Y. Goude, M. Fasiolo. [Interpretability for Industry 4.0: Statistical and Machine Learning Approaches](https://link.springer.com/book/10.1007/978-3-031-12402-0), Editors: A. Lepore, B. Palumbo, J.-M. Poggi, Springer 2022.
 
+Academic publications
+---------------------
+* PhD thesis [Random forests and interpretability of learning algorithms](https://clementbenard.github.io/files/These_CBenard_HAL.pdf), 6th December, 2021.
+
 
 Software
 ========
