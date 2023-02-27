@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist in machine learning and statistics at Safran Tech, in Paris region. 
+I am currently a research scientist in machine learning at Safran Tech, in Paris region. 
 My research interests span machine learning interpretability, random forests, causality, and uncertainty quantification.
 I am also driven by practical applications and software development.
 
