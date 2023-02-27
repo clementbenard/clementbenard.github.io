@@ -64,7 +64,7 @@ Talks
 
 Teaching
 ========
-* Instructor in statistics and optimization for mechanical engineers, 3-day sessions multiple times a year since 2018 (modelisation, uncertainty quantification, design of experiments, constrained optimization...)
+* Instructor in statistics and optimization for mechanical engineers, 3-day sessions multiple times a year since 2018 (modelization, uncertainty quantification, design of experiments, constrained optimization...)
 
 
 Education
