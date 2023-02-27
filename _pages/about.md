@@ -25,7 +25,7 @@ Research interests
 * Uncertainty quantification (Bayesian inference, conformal predictions)
 * Tree ensembles (random forests, boosted trees)
 
-<\br>
+</br>
 
 Publications
 ============
