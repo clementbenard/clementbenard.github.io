@@ -49,7 +49,7 @@ Book
 
 Academic publications
 ---------------------
-* PhD thesis [Random forests and interpretability of learning algorithms](https://clementbenard.github.io/files/These_CBenard_HAL.pdf), 6th December, 2021.
+* PhD thesis [Random forests and interpretability of learning algorithms](https://clementbenard.github.io/files/These_CBenard_HAL.pdf), 6 December 2021.
 
 <br/>
 
