@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a research scientist in machine learning at Safran Tech, in Paris region. 
-My research interests span machine learning interpretability, causality, tree ensembles, and uncertainty quantification.
+My research interests span machine learning interpretability, causal inference, tree ensembles, and uncertainty quantification.
 I am also driven by practical applications and software development.
 
 I have eight years of experience as a machine learning researcher and data scientist in aeronautic/aerospace and tech industries, with also a strong interest in healthcare applications.
