@@ -17,6 +17,7 @@ I hold a PhD in machine learning and mathematical statistics, on the topic of ex
 
 My resume is available [here](https://clementbenard.github.io/files/CV_CBenard.pdf).
 
+<br/>
 
 Research interests
 ==================
@@ -50,6 +51,7 @@ Academic publications
 ---------------------
 * PhD thesis [Random forests and interpretability of learning algorithms](https://clementbenard.github.io/files/These_CBenard_HAL.pdf), 6th December, 2021.
 
+<br/>
 
 Software
 ========
@@ -58,6 +60,7 @@ Software
 * [shaff](https://gitlab.com/drti/shaff) (SHApley eFfects via random Forests): a fast and accurate algorithm to estimate Shapley effects. 
 * [sobolMDA](https://gitlab.com/drti/sobolmda): the Sobol-MDA is a variable importance measure for random forests, fixing the flaws of Breiman's MDA.
 
+<br/>
 
 Talks
 =====
@@ -74,6 +77,7 @@ Talks
 * April 2021, AISTATS 2021, virtual conference.
 * June 2019, 51èmes Journées de Statistiques 2019, Nancy, France.
 
+<br/>
 
 Teaching
 ========
