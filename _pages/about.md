@@ -67,7 +67,7 @@ Talks
 * March 2023, CSMA Junior, Paris.
 * December 2022, CMStatistics 2022, King's College, London, UK.
 * March 2022, AISTATS 2022, virtual conference.
-* March 2022, Séminaire de Probabilités et Statistiques, Laboratoire de Mathématiques d'Orsay, Université Paris-Sacaly, Orsay.
+* March 2022, Séminaire de Probabilités et Statistiques, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay.
 * January 2022, Séminaire de Probabilités et Statistiques, Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice.
 * September 2021, École Thématique sur les Incertitudes en Calcul Scientifique (ETICS2021), Erdeven, France.
 * July 2021, ENBIS Workshop: Interpretability of Industry 4.0, Naples, Italy.
