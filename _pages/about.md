@@ -33,7 +33,7 @@ Publications
 
 Preprints
 ---------
-* C. Bénard, J. Josse. [Variable importance for causal forests: breaking down the heterogeneity of treatment effects](https://clementbenard.github.io/files/causal_forests_vimp.pdf), 2023.
+* C. Bénard, J. Josse. Variable importance for causal forests: breaking down the heterogeneity of treatment effects, 2023.
 * C. Bénard, B. Staber, and S. Da Veiga. [Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization.](https://arxiv.org/abs/2301.13528) arXiv preprint arXiv:2301.13528, 2023.
 
 Published papers
