@@ -34,7 +34,7 @@ Publications
 
 Preprints
 ---------
-* C. Bénard, J. Josse. Variable importance for causal forests: breaking down the heterogeneity of treatment effects, 2023.
+* C. Bénard, J. Josse. [Variable importance for causal forests: breaking down the heterogeneity of treatment effects](https://arxiv.org/abs/2308.03369) arXiv preprint arXiv:2308.03369, 2023.
 * C. Bénard, B. Staber, and S. Da Veiga. [Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization.](https://arxiv.org/abs/2301.13528) arXiv preprint arXiv:2301.13528, 2023.
 
 Published papers
@@ -60,11 +60,13 @@ Software
 * [sirus](https://cran.r-project.org/web/packages/sirus) (Stable and Interpretable RUle Set): a regression and classification algorithm based on random forests, which takes the form of a short list of rules. SIRUS combines the simplicity of decision trees with a predictivity close to random forests.
 * [shaff](https://gitlab.com/drti/shaff) (SHApley eFfects via random Forests): a fast and accurate algorithm to estimate Shapley effects. 
 * [sobolMDA](https://gitlab.com/drti/sobolmda): the Sobol-MDA is a variable importance measure for random forests, fixing the flaws of Breiman's MDA.
+* [vimp-grf](https://gitlab.com/cbenard/grf-vimp): a variable importance measure for causal forests.
 
 <br/>
 
 Talks
 =====
+* August 2023, EcoSta 2023, Tokyo, Japan.
 * March 2023, CSMA Junior, Paris.
 * December 2022, CMStatistics 2022, King's College, London, UK.
 * March 2022, AISTATS 2022, virtual conference.
