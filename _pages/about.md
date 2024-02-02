@@ -21,7 +21,7 @@ My resume is available [here](https://clementbenard.github.io/files/CV_CBenard.p
 
 Research interests
 ==================
-* Causal inference (heterogeneous treatment effects, causal forests)
+* Causal inference (heterogeneous treatment effects, causal forests, causal discovery)
 * Machine learning interpretability - XAI (variable importance, rule learning, functional decomposition)
 * Uncertainty quantification (Bayesian inference, conformal predictions)
 * Tree ensembles (random forests, boosted trees)
@@ -34,12 +34,13 @@ Publications
 
 Preprints
 ---------
-* C. Bénard, J. Näf, and J. Josse. MMD-based variable importance for Distributional Random Forest. preprint, 2023.
 * C. Bénard, J. Josse. [Variable importance for causal forests: breaking down the heterogeneity of treatment effects](https://arxiv.org/abs/2308.03369) arXiv preprint arXiv:2308.03369, 2023.
 
 Published/Accepted papers
 ----------------
-* C. Bénard, B. Staber, and S. Da Veiga. [Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization.](https://arxiv.org/abs/2301.13528) Accepted for NeurIPS 2023 (arXiv preprint arXiv:2301.13528).
+* C. Bénard, J. Näf, and J. Josse. [MMD-based Variable Importance for Distributional Random Forest](https://arxiv.org/abs/2310.12115). Accepted to
+AISTATS 2024.
+* C. Bénard, B. Staber, and S. Da Veiga. [Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization.](https://arxiv.org/abs/2301.13528). NeurIPS 2023, in press, 2023.
 * C. Bénard, S. Da Veiga, and E. Scornet. [Mean decrease accuracy for random forests: inconsistency, and a practical solution via the Sobol-MDA.](https://doi.org/10.1093/biomet/asac017) Biometrika, 109:881-900, 2022.
 * C. Bénard, G. Biau, S. Da Veiga, and E. Scornet. [SHAFF: Fast and consistent SHApley eFfect estimates via random Forests.](https://proceedings.mlr.press/v151/benard22a.html) In Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:5563-5582, 2022.
 * C. Bénard, G. Biau, S. Da Veiga, and E. Scornet. [Interpretable random forests via rule extraction.](https://proceedings.mlr.press/v130/benard21a.html) In Proceedings of The 24th International Conference on Artificial Intelligence and Statistics, PMLR 130:937–945, 2021.
@@ -51,7 +52,7 @@ Book
 
 Academic publications
 ---------------------
-* PhD thesis [Random forests and interpretability of learning algorithms](https://clementbenard.github.io/files/These_CBenard_HAL.pdf), 6 December 2021.
+* PhD thesis [Random forests and interpretability of learning algorithms](https://clementbenard.github.io/files/These_CBenard_HAL.pdf), 6 December 2021. Supervisors : [Gérard Biau](https://perso.lpsm.paris/~biau/), [Erwan Scornet](https://erwanscornet.github.io/), and [Sébastien Da Veiga](https://www.linkedin.com/in/s%C3%A9bastien-da-veiga-80791013a/).
 
 <br/>
 
@@ -67,6 +68,8 @@ Software
 
 Talks
 =====
+* December 2023, NeurIPS@Paris, Sorbonne Université, Paris.
+* December 2023, 2nd Nice Workshop on Interpretability, Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice.
 * August 2023, EcoSta 2023, Tokyo, Japan.
 * March 2023, CSMA Junior, Paris.
 * December 2022, CMStatistics 2022, King's College, London, UK.
@@ -85,5 +88,5 @@ Talks
 
 Teaching
 ========
-* Instructor in statistics and optimization for mechanical engineers, 3-day sessions multiple times a year since 2018 (modelization, uncertainty quantification, design of experiments, constrained optimization...)
+* Instructor in statistics and optimization for mechanical engineers, 3-day sessions multiple times a year since 2018 (machine learning, uncertainty quantification, design of experiments, constrained optimization...)
 
