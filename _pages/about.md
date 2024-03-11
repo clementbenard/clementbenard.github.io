@@ -40,7 +40,7 @@ Published/Accepted papers
 ----------------
 * C. Bénard, J. Näf, and J. Josse. [MMD-based Variable Importance for Distributional Random Forest](https://arxiv.org/abs/2310.12115). Accepted to
 AISTATS 2024.
-* C. Bénard, B. Staber, and S. Da Veiga. [Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization](https://arxiv.org/abs/2301.13528). NeurIPS 2023, in press, 2023.
+* C. Bénard, B. Staber, and S. Da Veiga. [Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9a8eb202c060b7d81f5889631cbcd47e-Abstract-Conference.html). Advances in Neural Information Processing Systems 36 (NeurIPS 2023), 2023.
 * C. Bénard, S. Da Veiga, and E. Scornet. [Mean decrease accuracy for random forests: inconsistency, and a practical solution via the Sobol-MDA.](https://doi.org/10.1093/biomet/asac017) Biometrika, 109:881-900, 2022.
 * C. Bénard, G. Biau, S. Da Veiga, and E. Scornet. [SHAFF: Fast and consistent SHApley eFfect estimates via random Forests.](https://proceedings.mlr.press/v151/benard22a.html) In Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR 151:5563-5582, 2022.
 * C. Bénard, G. Biau, S. Da Veiga, and E. Scornet. [Interpretable random forests via rule extraction.](https://proceedings.mlr.press/v130/benard21a.html) In Proceedings of The 24th International Conference on Artificial Intelligence and Statistics, PMLR 130:937–945, 2021.
@@ -68,6 +68,7 @@ Software
 
 Talks
 =====
+* March 2024, SIAM UQ 2024, Trieste, Italy.
 * December 2023, NeurIPS@Paris, Sorbonne Université, Paris.
 * December 2023, 2nd Nice Workshop on Interpretability, Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice.
 * August 2023, EcoSta 2023, Tokyo, Japan.
