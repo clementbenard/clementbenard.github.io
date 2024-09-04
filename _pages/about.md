@@ -21,7 +21,7 @@ My resume is available [here](https://clementbenard.github.io/files/CV_CBenard.p
 
 Research interests
 ==================
-* Explanable Machine Learning - XAI (variable importance, functional decomposition, rule learning)
+* Explainable Machine Learning - XAI (variable importance, functional decomposition, rule learning)
 * Causal Inference (heterogeneous treatment effects, causal forests, causal discovery)
 * Tree Ensembles (random forests, boosted trees)
 * Decision Aid (MCDA, Choquet integral)
