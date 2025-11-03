@@ -21,11 +21,11 @@ My resume is available [here](https://clementbenard.github.io/files/CV_CBenard.p
 
 Research interests
 ==================
-* Explainable Machine Learning - XAI (variable importance, functional decomposition, rule learning)
+* Explainable Machine Learning - XAI (functional decompositions, variable importance, rule learning)
 * Causal Inference (heterogeneous treatment effects, causal forests, causal discovery)
 * Tree Ensembles (random forests, boosted trees)
-* Decision Aid (MCDA, Choquet integral)
-* Deep Learning (GNN, Neur-HCI)
+* Decision Aid (MCDA, Neur-HCI)
+* Deep Learning (CNN, VLM, GNN)
 * Uncertainty Quantification (Bayesian inference, conformal predictions)
 * Active Learning (design of experiments, Bayesian optimization)
 
@@ -36,10 +36,13 @@ Publications
 
 Preprints
 ---------
-* C. Bénard, J. Josse. [Variable importance for causal forests: breaking down the heterogeneity of treatment effects](https://arxiv.org/abs/2308.03369). arXiv preprint arXiv:2308.03369, 2023.
+
 
 Published/Accepted papers
 ----------------
+* C. Bénard. [Tree Ensemble Explainability through the Hoeffding Functional Decomposition and TreeHFD Algorithm](https://openreview.net/pdf?id=dRLWcpBQxS). In Advances in Neural Information Processing Systems 38 (NeurIPS 2025), in press, 2025.
+* C. Bénard, J. Josse. [Variable importance for causal forests: breaking down the heterogeneity of treatment effects](https://arxiv.org/abs/2308.03369). Accepted to Journal of Causal Inference, 2025.
+* N. Honoré, C. Bénard, and C. Labreuche. [Sensitivity Analysis in Surveillance Performance Monitoring for Air Traffic Management](https://ieeexplore.ieee.org/abstract/document/11124111). 2025 28th International Conference on Information Fusion (FUSION). IEEE, 2025.
 * C. Bénard, J. Näf, and J. Josse. [MMD-based Variable Importance for Distributional Random Forest](https://arxiv.org/abs/2310.12115). Proceedings of The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), PMLR 238:1324-1332, 2024.
 * C. Bénard, B. Staber, and S. Da Veiga. [Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9a8eb202c060b7d81f5889631cbcd47e-Abstract-Conference.html). Advances in Neural Information Processing Systems 36 (NeurIPS 2023), 2023.
 * C. Bénard, S. Da Veiga, and E. Scornet. [Mean decrease accuracy for random forests: inconsistency, and a practical solution via the Sobol-MDA.](https://doi.org/10.1093/biomet/asac017) Biometrika, 109:881-900, 2022.
@@ -59,6 +62,7 @@ Academic publications
 
 Software
 ========
+* [treehfd](https://github.com/ThalesGroup/treehfd): A python module to explain xgboost models with the Hoeffding functional decomposition.
 * [Kernax](https://gitlab.com/drti/kernax): Kernax is a package that implements KSD-based algorithms for post-processing MCMC outputs. It is based on JAX and works on CPU as well as GPU.
 * [Lagun](https://gitlab.com/drti/lagun): platform providing a user-friendly interface to methods and algorithms dedicated to the exploration of numerical simulations and the analysis of datasets (design of experiments, conditional gaussian processes, sensitivity analysis, uncertainty propagation, optimization).
 * [sirus](https://cran.r-project.org/web/packages/sirus) (Stable and Interpretable RUle Set): a regression and classification algorithm based on random forests, which takes the form of a short list of rules. SIRUS combines the simplicity of decision trees with a predictivity close to random forests.
@@ -70,6 +74,7 @@ Software
 
 Talks
 =====
+* October 2025, MobiliT.AI 2025, Toulouse, France.
 * March 2024, SIAM UQ 2024, Trieste, Italy.
 * December 2023, NeurIPS@Paris, Sorbonne Université, Paris.
 * December 2023, 2nd Nice Workshop on Interpretability, Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice.
