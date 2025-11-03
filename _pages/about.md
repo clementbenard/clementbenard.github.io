@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an AI research scientist at Thales Research, in Paris region. 
+I am currently an AI research scientist at Thales cortAIx-Labs, in Paris region. 
 My research interests span explainable machine learning (XAI), causal inference, tree ensembles, decision aid, deep learning, uncertainty quantification, and active learning.
 I am also driven by practical applications and software development.
 
@@ -42,7 +42,7 @@ Published/Accepted papers
 ----------------
 * C. Bénard. [Tree Ensemble Explainability through the Hoeffding Functional Decomposition and TreeHFD Algorithm](https://openreview.net/pdf?id=dRLWcpBQxS). In Advances in Neural Information Processing Systems 38 (NeurIPS 2025), in press, 2025.
 * C. Bénard, J. Josse. [Variable importance for causal forests: breaking down the heterogeneity of treatment effects](https://arxiv.org/abs/2308.03369). Accepted to Journal of Causal Inference, 2025.
-* N. Honoré, C. Bénard, and C. Labreuche. [Sensitivity Analysis in Surveillance Performance Monitoring for Air Traffic Management](https://ieeexplore.ieee.org/abstract/document/11124111). 2025 28th International Conference on Information Fusion (FUSION). IEEE, 2025.
+* N. Honoré, C. Bénard, and C. Labreuche. [Sensitivity Analysis in Surveillance Performance Monitoring for Air Traffic Management](https://ieeexplore.ieee.org/abstract/document/11124111). 2025 28th International Conference on Information Fusion (FUSION), IEEE, 2025.
 * C. Bénard, J. Näf, and J. Josse. [MMD-based Variable Importance for Distributional Random Forest](https://arxiv.org/abs/2310.12115). Proceedings of The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), PMLR 238:1324-1332, 2024.
 * C. Bénard, B. Staber, and S. Da Veiga. [Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9a8eb202c060b7d81f5889631cbcd47e-Abstract-Conference.html). Advances in Neural Information Processing Systems 36 (NeurIPS 2023), 2023.
 * C. Bénard, S. Da Veiga, and E. Scornet. [Mean decrease accuracy for random forests: inconsistency, and a practical solution via the Sobol-MDA.](https://doi.org/10.1093/biomet/asac017) Biometrika, 109:881-900, 2022.
